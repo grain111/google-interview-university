@@ -1,4 +1,4 @@
-# Google Interview University
+﻿# Google Interview University BARTEk
 
 >**I originally created this as a short to-do list of study topics, but it grew to the large list you see today. Working at 
 Google was the original motivator, hence the name. [I didn't get an interview at Google](https://googleyasheck.com/i-didnt-get-hired-heres-why/), 
